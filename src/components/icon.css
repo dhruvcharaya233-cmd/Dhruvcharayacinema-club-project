@@ -1,0 +1,15 @@
+.icon-container {
+  display:flex;
+  margin: 10px;
+  flex-direction: row;
+}
+
+.instagram-icon {
+  color: #E1306C;
+  font-size: 30px;
+  transition: transform 0.3s;
+}
+
+.instagram-icon:hover {
+  transform: scale(1.1);
+}
